@@ -12,5 +12,5 @@ If you plan on attending the meeting I would recommend that you sign up for an a
 
 Once you have signed up for an account, you will recieve a unique API key that will allow you to get data from these websites. In each of the R-Scripts in this repository there are instructions on how to save these codes in order for the R scripts to run without any modificaiton. 
 
-Once you have done that, download or clone this repository. To clone the prository, navigate to the desired location and use: 
-`git clone https://github.com/jesseuwheeler/WebAPI-Example-In-R.git`
+Once you have done that, download or clone this repository. To clone the repository, navigate to the desired location and use: 
+`git clone https://github.com/jesseuwheeler/WebAPI-Example-In-R.git`.
