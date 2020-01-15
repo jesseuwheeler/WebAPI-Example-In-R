@@ -6,7 +6,7 @@
 # Steps:
 #   (1) Create a free account with api.ipstack.com in order to get your
 #       own api-access key
-#   (2) Create a free account with openweathermap.ord in order to get
+#   (2) Create a free account with openweathermap.org in order to get
 #       an access key to the weather API
 #   (3) Save a .txt file containing your access key and save the file
 #       in the same location that this file is stored. To integrate
